@@ -1,2 +1,2 @@
 # Discord-Webhooks
-Hello
+print("Hello World")
